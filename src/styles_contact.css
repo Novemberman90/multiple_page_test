@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+p{
+    text-align: center;
+}
+
+ul, li {
+    display: inline;
+    text-decoration: none;   
+}
+
+a {
+    color: green;
+}
